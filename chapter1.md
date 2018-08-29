@@ -69,3 +69,15 @@ success_msg("Some praise! Then reinforce a learning objective from the exercise.
 ```
 
 
+---
+
+## Introduction
+
+```yaml
+type: VideoExercise 
+xp: 50 
+key: d570ad36b6   
+```
+
+`@projector_key`
+3fee1fb8353603778930dc4c79826ceb
